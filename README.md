@@ -4,7 +4,7 @@
 
 CRA로 라이브러리 없이 Drag and Drop 구현하기 입니다.
 
-함수형 컴포넌트로 구성했고, useRef로 Dom제어를 통해 구현하였습니다.
+함수형 컴포넌트로 구성했고, styled-components사용하여 전처리CSS, useRef로 Dom제어를 통해 구현하였습니다.
 
 Container로 감싸 overflow 할 수 없게 구현하였습니다.
 
